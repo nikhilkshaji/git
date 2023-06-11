@@ -1,6 +1,7 @@
 # Python program to determine whether
 # the number is Armstrong number or not
 # written by geeksforgeeks
+# python tutorial series by geeksforgeeks
 
 # Function to calculate x raised to
 # the power y
