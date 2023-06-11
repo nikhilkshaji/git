@@ -4,3 +4,5 @@ We are now studying recursive merge on git.
 From brototype youtube channel.
 
 github remote pushing tried
+
+git clone command used.
